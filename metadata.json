@@ -1,0 +1,5 @@
+{
+  "name": "HashMedia IM",
+  "description": "A decentralized-style instant messaging platform using MD5 content addressing and mesh-based routing simulation.",
+  "requestFramePermissions": []
+}
